@@ -10,3 +10,15 @@ Consommation totale d’énergie de bâtiments : La quantité annuelle d'énerg
 Contrainte : La prédiction se basera sur les données déclaratives du permis d'exploitation commerciale (taille et usage des bâtiments, mention de travaux récents, date de construction..)
 
 Voir le compte rendu : https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/BuildingEnergyBenchmarkingSeattle.pptx
+
+Les fichiers contenant le travail effectué sont disponibles ici :
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20Part%201%20with%20Score.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%201.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%202%20GHGEmIn%20target%20with%20score.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%202%20GHGEmIn%20target.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%202%20SiteEnergyUseWN%20target%20with%20score.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%202%20SiteEnergyUseWN%20target.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%203%20GHGEmIn%20target%20with%20score.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%203%20GHGEmIn%20target.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%203%20SiteEnergyUseWN%20target%20with%20score.ipynb
+https://github.com/doubianimehdi/SeattleBuildingEnergyBenchmark/blob/master/Projet%203%20OC%20ML%20part%203%20SiteEnergyUseWN%20target.ipynb
